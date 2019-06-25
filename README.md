@@ -1,8 +1,8 @@
 # AndroidColorsToIOS
 Convert android colors.xml (including night mode values if used) into an iOS color catalog file system using simple python script.
 
-![colors.xml](https://imgur.com/K6jeVtS)
-![iOS colors](https://imgur.com/nkd6Lw4)
+![colors.xml](https://i.imgur.com/K6jeVtS.png)
+![iOS colors](https://i.imgur.com/nkd6Lw4.png)
 
 Already have a large color palette defined for your mobile app in Android using Android's colors.xml file format? Have night mode colors too?
 
