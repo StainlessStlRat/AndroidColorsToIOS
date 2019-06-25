@@ -167,12 +167,10 @@ def _create_json_color(r,g,b,a):
         }
     }
 
-def test():
-    print "Running test"
-    filename = '/Users/harrison/dev/gameye/android/GAMEYE/app/src/main/res/values/colors.xml'
-    night_filename = '/Users/harrison/dev/gameye/android/GAMEYE/app/src/main/res/values-night/colors.xml'
-    output_folder = '/Users/harrison/Documents/colors_test'
-    convertXML(filename, None, output_folder)
-    convertXML(filename, night_filename, output_folder + '_night')
-
-test()
+#def test():
+#    print "Running test"
+#    filename = '/Users/harrison/dev/gameye/android/GAMEYE/app/src/main/res/values/colors.xml'
+#    night_filename = '/Users/harrison/dev/gameye/android/GAMEYE/app/src/main/res/values-night/colors.xml'
+#    output_folder = '/Users/harrison/Documents/colors_test'
+#    convertXML(filename, None, output_folder)
+#    convertXML(filename, night_filename, output_folder + '_night')
